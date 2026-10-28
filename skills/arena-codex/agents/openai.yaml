@@ -1,0 +1,4 @@
+interface:
+  display_name: "Arena for Codex"
+  short_description: "Compare competing solutions with independent judges"
+  default_prompt: "Use $arena-codex --quick to compare independent solutions to this task."
